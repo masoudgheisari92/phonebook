@@ -8,11 +8,17 @@ PhoneBook is a python project to store contacts' information. It uses tkinter as
 
 # Getting Started
 
-Clone the Repository
+1. Clone the Repository
 
-```bash
-git clone https://github.com/masoud2685/phonebook.git
-```
+   ```bash
+   git clone https://github.com/masoud2685/phonebook.git
+   ```
+
+2. Run the python script in the project directory
+
+   ```bash
+   python ./phonebook.py
+   ```
 
 # Contact
 
